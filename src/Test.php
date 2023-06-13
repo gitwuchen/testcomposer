@@ -7,6 +7,6 @@ class Test
 
     public function index()
     {
-        echo 'composer包测试成功3333';
+        echo 'composer包测试成功3333-----test';
     }
 }
