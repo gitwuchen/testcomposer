@@ -1,0 +1,21 @@
+{
+    "name": "wuchen/testcomposer",
+    "description": "just test",
+    "type": "library",
+    "require": {
+        "php": ">=7.4"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "wuchen\\Testcomposer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "liuwuchen",
+            "email": "949669291@qq.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
